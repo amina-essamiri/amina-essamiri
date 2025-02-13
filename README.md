@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Amina ESSAMIRI 👋</h1>
+<h1 align="left">Hi, I'm Amina ESSAMIRI 👋</h1>
 <h3 align="left">Full Stack Web Developer | Programming Tutor</h3>
 
 <p align="left">
