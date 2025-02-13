@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Amina ESSAMIRI 👋</h1>
-<h3 align="center">Full Stack Web Developer | Programming Tutor</h3>
+<h3 align="left">Full Stack Web Developer | Programming Tutor</h3>
 
-<p>
+<p align="left">
 Welcome to my GitHub profile! I'm a passionate full-stack developer with expertise in both front-end and back-end technologies.
 </p>
 
